@@ -2,3 +2,7 @@ char
 scott
 cskinner
 charlotte
+charlotte
+CharlotteS
+Charlotte S
+scott
